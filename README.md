@@ -1,1 +1,1 @@
-# ironkaggle_gael
+En este proyecto hemos usado unos datos sobre viviendas y hemos investigado toda la data y usado diferentes tipos de modelos de machine learning para saber cual era el mas adecuado para predecir la target del precio.
